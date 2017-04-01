@@ -8,7 +8,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least WC: 2.6
 
-Integrates with E-Go Courier allowing you to provide accurate shipping quotes for your customers.
+Adds E-Go Courier shipping option in woocommerce and displays live shipping rates based on shipping address and cart content.
 
 == Description ==
 This is a Woocommerce plugin to add support for E-Go Courier. 
