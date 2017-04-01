@@ -1,0 +1,17 @@
+{
+    "name": "mis1/ego-woocommerce-shipping-method",
+    "description": "Integrates with E-Go Courier allowing you to provide accurate shipping quotes for your customers.",
+    "require-dev": {
+        "phpunit/phpunit": "~4.5",
+        "php-mock/php-mock-phpunit": "1.1.2"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "mis1",
+            "email": "imran.imran0@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
